@@ -1,0 +1,35 @@
+.userdata {
+  color: red;
+  text-align: center;
+}
+.admin {
+  color: rgb(34, 34, 26);
+  text-align: center;
+  background-color: rgb(163, 134, 196);
+}
+input {
+  background-color: rgb(222, 235, 235);
+  height: 50px;
+  width: 400px;
+}
+button {
+  color: red;
+  font-weight: bold;
+  height: 50px;
+  background-color: chartreuse;
+}
+.parents {
+  text-align: center;
+  display: grid;
+  grid-template-columns: 500px 500px 500px;
+  margin-left: 50px;
+}
+right {
+  text-align: center;
+  background-color: aqua;
+  height: 800px;
+}
+
+h1 {
+  color: blue;
+}
